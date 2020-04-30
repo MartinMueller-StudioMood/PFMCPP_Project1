@@ -129,7 +129,7 @@ computer.copy();
 //  action 2: computer deletes picture
 computer.deletePicture();
 //  action 3: computer executes program
- computer.execute(); 
+computer.execute(); 
 //  10)
 //  Noun: teacher
 //  action 1: teacher writes topics
