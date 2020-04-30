@@ -59,84 +59,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: synth
+//  action 1: synth generates sounds
+synth.generate();
+//  action 2: synth receives midi
+synth.receiveMidi();
+//  action 3: synth sends midi
+synth.sendMidi();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: bus
+//  action 1: bus transports people
+bus.transport();
+//  action 2: bus refuels energy
+bus.refuel();
+//  action 3: bus stops at bus station
+bus.stop();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: threshold
+//  action 1: threshold gets signal
+threshold.getSignal();
+//  action 2: threshold changed value
+threshold.changedValue();
+//  action 3: threshold is moved by user
+threshold.isMoved();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: reverb
+//  action 1: reverb simulates depth
+reverb.simulateDepth();
+//  action 2: reverb spread stereo width
+reverb.spreadStereoWidth();
+//  action 3: reverb set length
+reverb.setLength();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: delay
+//  action 1: delay sets delay time
+delay.setDelayTime();
+//  action 2: delay get dry/wet value
+delay.getDryWet();
+//  action 3: delay has feedback
+delay.hasFeedback();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: eq
+//  action 1: eq sets frequence to value 
+eq.setFreq();
+//  action 2: eq increases gain
+eq.increaseGain();
+//  action 3: eq selects mode
+eq.selectMode();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: filter
+//  action 1: filter moves frequence
+filter.moveFreq();
+//  action 2: filter changes envelope
+filter.changeEnvelope();
+//  action 3: filter modulates resonance 
+filter.modulateResonance();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: truck 
+//  action 1: truck transports good
+truck.transports();
+//  action 2: truck pull up brake
+truck.pullUp();
+//  action 3: truck speed up 
+truck.speedUp();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: computer
+//  action 1: computer copies file
+computer.copy();
+//  action 2: computer deletes picture
+computer.deletePicture();
+//  action 3: computer executes program
+computer.execute(); 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: teacher
+//  action 1: teacher writes topics
+teacher.write();
+//  action 2: teacher asks questions
+teacher.ask()
+//  action 3: teacher creates feedback
+teacher.createFeedback();
 
-//  action 2:
-
-//  action 3:
  
 
 
